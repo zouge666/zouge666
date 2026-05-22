@@ -1,16 +1,12 @@
-## Hi there 👋
+**<font size='6'>Hi 👋</font>, I'm Senhao.**
+<br>
+**⭐ Top Projects & Contributions**:
+<br>
+<a href="https://github.com/Emiyaaaaa/HiveMind"><img alt="GitHub Repo stars" height="25" src="https://img.shields.io/github/stars/Emiyaaaaa/HiveMind?style=flat&label=%E2%AD%90%20HiveMind&labelColor=white&color=1f6eeb"></a>
+<a href="https://github.com/hlf20010508/miniopy-async"><img alt="GitHub Repo stars" height="25" src="https://img.shields.io/github/stars/hlf20010508/miniopy-async?style=flat&label=%E2%AD%90%20miniopy-async&labelColor=white&color=1f6eeb"></a>
+<br>
 
-<!--
-**zouge666/zouge666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p >
+  <img height="150" src="./gif/cat.gif">
+  <img height="150" src="./gif/cow.gif">
+</p>
